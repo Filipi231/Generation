@@ -1,0 +1,49 @@
+/* CSS da index */
+
+body{
+    background: silver;
+}
+
+.container{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#menu{
+    color: green;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.tiutlo1{
+    border: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font: optional;color: green;
+
+}
+
+/* CSS do contato */
+
+.menu1{
+    display: flex;
+    justify-content: center;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px; color: blue;
+  
+}
+
+.titulo3{
+    border: 2px solid black;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
