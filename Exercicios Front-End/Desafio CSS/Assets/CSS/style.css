@@ -1,0 +1,154 @@
+
+/*Logo*/
+body{
+    margin: 60px;
+    margin-top: 0;
+}
+
+
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    border: 2px solid hwb(240 27% 5%ue);
+    background-color: hwb(240 27% 5%);
+    padding: 30px;
+   
+}
+
+.icone{
+display: flex;
+align-items: center;
+justify-content: flex-start;
+width: 80px;
+ height: 80px;
+}
+
+.titulo{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 25px;
+   font-weight: bold;
+   font:  optional;color: white ;
+   display: flex;
+   text-align: right;
+   justify-content:center;
+   margin-top: 20px;
+   width: 150px;
+   height: 20px;
+   
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 0;
+    margin: 25px;
+    width: 900px;
+    list-style: none;
+
+}
+
+li a{
+    margin: 10px;
+    font:  optional;color: white ;
+    color: white;
+    list-style: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, monospace;font-weight: bold; font-size: 20px;
+    text-decoration: none;
+}
+
+/* Corpo*/
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#sobre{
+    display: flex;
+    justify-content: right;
+    background: rgb(252, 212, 82);
+    border-radius: 5px;
+}
+
+.texto_sobre{
+    margin: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 15px;
+}
+
+.foto{
+    width: 200px;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+#meu_video{
+    font-family:'Times New Roman', Times, serif, 10px;
+}
+
+#video{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+
+.pitch{
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Rede Social*/
+
+.redes_sociais{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: black;
+    padding: 20px;
+
+}
+
+.icons{
+    display: inline-block;
+    width: 30px;
+   margin: 5px;
+}
+
+.by{
+   display: flex;
+   justify-content: center;
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: orange;
+   
+}
+
+/*********************************Contato***************************************************/
+
+#fundo{
+    background-color: rgb(252, 232, 204);
+}
+
+#contato{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+
+#formulario_mensagem{
+    display: block;
+  margin-right: 300px;
+}
+
+
+.campos-form{
+    display: block;
+    justify-content:center;
+    padding: 30px;
+}
+
+
