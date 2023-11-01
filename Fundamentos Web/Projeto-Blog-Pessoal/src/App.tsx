@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
    <Home/>
-   <Card titulo='Anime' descricao='Dragon Ball' />
+   <Card titulo='Blog' descricao='Curtidas' />
    <Contador />
    <Tarefa/>
    </div>
