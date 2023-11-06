@@ -19,7 +19,7 @@ function Home() {
             </div>
   
             <div className="flex justify-center ">
-             <img src="./assets/login-img.jpg" alt="login" />
+             <img src="src/assets/login.png" alt="login" />
       
             </div>
           </div>
